@@ -1,0 +1,38 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;  
+    background-color: #ffffff;
+    font-family: 'Verdana', sans-serif; 
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1px;
+}
+
+
+.contenedor-texto {
+    max-width: 650px;    
+    margin-top: 20px;
+    text-align: left;    
+    line-height: 1.6;    
+}
+
+audio{
+position:fixed;
+bottom:20px;
+left:20px;
+}
+
